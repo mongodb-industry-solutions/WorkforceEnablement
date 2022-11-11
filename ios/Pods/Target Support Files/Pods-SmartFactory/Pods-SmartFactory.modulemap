@@ -1,0 +1,6 @@
+module Pods_SmartFactory {
+  umbrella header "Pods-SmartFactory-umbrella.h"
+
+  export *
+  module * { export * }
+}
