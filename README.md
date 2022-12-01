@@ -11,8 +11,5 @@ An application that sends machine condition and performance alerts from the shop
 
 ## Order portal
 This is a simple Node.js application that shows a method of communication with shop floor devices through Database triggers. It involves trasnmitting input from a web application data-entry form into the factory message queue. We use Atlas App Services to create and administer the app and also to setup database triggers and functons that handle the interface of data between software and hardware.<br>
-<<<<<<< HEAD
+
 [Explore the Order Portal App](https://github.com/mongodb-industry-solutions/WorkforceEnablement/tree/main/Order%20portal)
-=======
-[Explore the Order Portal App](https://github.com/mongodb-industry-solutions/WorkforceEnablement/tree/main/Order%20portal)
->>>>>>> aa3e64d7449121d3a5686f0380068aa27ab5912c
