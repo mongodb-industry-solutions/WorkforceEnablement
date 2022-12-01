@@ -1,5 +1,5 @@
 # Workforce Enablement for Industry 4.0
-Mobile applications for the shopfloor are a great way to tackle the challenges of transforming and presenting IIoT data. They ensure smooth interactions between workers and machines while democratizing technology and placing the power of data in the hands of the workforce.
+Mobile applications for the shopfloor are a great way to tackle the challenges of transforming and presenting IIoT data. They ensure smooth interactions between workers and machines while democratizing technology and placing the power of data in the hands of the workforce.<br>
 In this repository, we will showcase how simple it is to leverage data in MongoDB Atlas with App Services and Device Sync to create applications that bring data to the mobile device of an operator or decision maker. You will find two apps in this repo: one for sending data to the factory and the other for receiving alerts and notifications from the factory; both built on Atlas App Services!
 
 
